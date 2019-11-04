@@ -26,7 +26,7 @@
 <body>
   <div class ="container">
     <h1>jquery bind event</h1>     
-    <p>Click or double click here.</p>
+    <p>Click or double click here.test it</p>
     <span></span>
 
   </div>
